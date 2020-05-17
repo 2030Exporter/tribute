@@ -8,15 +8,15 @@ tribute page based on html and css
   <body>
   <header> <h1>tribute to BobCollymore</h1>
    </header>
-  <main> <article>Bob's background <br>
+  <main> <article> <p>Bob's background <br>
               education <br>
               work<br>
              family<br>
-             illness
+             illness</p>
     </article>
    </main>
-  <footer>Bob truly was an icon worth to recall 
-  2020 © exporter facts</footer>
+  <footer><p>Bob truly was an icon worth to recall 
+  2020 © exporter facts</p></footer>
   </body>
 
 </html>
