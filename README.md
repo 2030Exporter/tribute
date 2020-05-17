@@ -8,10 +8,10 @@ tribute page based on html and css
   <body>
   <header> <h1>tribute to BobCollymore</h1>
    </header>
-  <main> <article>Bob's background 
-              education
-              work
-             family
+  <main> <article>Bob's background <br>
+              education <br>
+              work<br>
+             family<br>
              illness
     </article>
    </main>
