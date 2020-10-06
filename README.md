@@ -1,1 +1,1 @@
-
+A simple tribute page
